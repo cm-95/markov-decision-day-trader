@@ -6,6 +6,6 @@ Build a stochastic transition model in the form of a day trading bot using Marko
 
 Data for this project was sourced using Yahoo Finance and the yﬁnance API package in Python.
 
-Full code can be found here: [a relative link](correlation_analysis.ipynb)
+Full code can be found here: [Full Code](correlation_analysis.ipynb)
 
-Explanation of code and process can be found here: [a relative link](Explanation.pdf)
+Explanation of code and process can be found here: [Full Explanation](Explanation.pdf)
